@@ -2,6 +2,8 @@
 
 This Android application captures incoming calls and SMS messages, and forwards the data to a Bark server, via email, or through a webhook. You can receive notifications on other devices using the Bark app, email, or by setting up a custom webhook.
 
+<a href="https://www.buymeacoffee.com/jinweijie" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/white_img.png" alt="Buy Me A Coffee"></a>
+
 ## Features
 - Capture incoming calls and SMS messages.
 - Forward call and SMS information to a Bark server.
